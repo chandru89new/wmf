@@ -1,0 +1,2 @@
+Test content goes here.
+You’ll notice that the single new lines get converted into double new lines. And smart single quote (’) and smart double quotes (“ ”) get converted into regular ones.
